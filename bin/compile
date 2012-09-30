@@ -6,8 +6,8 @@ BUILD_DIR=$1
 CACHE_DIR=$2
 
 # config
-VERSION="1.6.1"
-S3_BUCKET="stomita-buildpack-phantomjs"
+VERSION="1.7.0"
+S3_BUCKET="passit"
 
 # s3 packages
 FILE_NAME="buildpack-phantomjs-${VERSION}.tar.gz"
